@@ -1,0 +1,2 @@
+# MakeTemplate_for_GITHUB
+GITHUBのテンプレ自動作成プログラムです。
