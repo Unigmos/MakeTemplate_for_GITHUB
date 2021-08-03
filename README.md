@@ -30,4 +30,6 @@ platformにてバージョン取得<br>
 何かございましたら「shaneron@sumahotektek.com」まで連絡ください。反応は非常に遅いです。<br>
 
 ### 変更履歴<br>
-Ver1.0:初期バージョン
+Ver1.0:初期バージョン<br>
+Ver1.1:実行環境にOS情報を追加しました。<br>
+　　　readme_listの中身に「\n」を追加することで見やすくなりました。
