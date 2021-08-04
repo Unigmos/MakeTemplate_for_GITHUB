@@ -5,7 +5,7 @@ import platform
 file_name = "NewProjectFile(新しいファイル)"
 dir_path = "../../" + str(file_name)
 README_path = "../../" + str(file_name) + "/README.md"
-memo_path = "../../" + str(file_name) + "/Ver1.1/実行環境.txt"
+memo_path = "../../" + str(file_name) + "/Ver1.0/実行環境.txt"
 
 #フォルダ作成(重複時にはファイル作成をしない)
 try:
