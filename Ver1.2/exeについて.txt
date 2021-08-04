@@ -1,12 +1,9 @@
 *利用前にお読みください
 
-MakeTemplate.exeとMakeTemplate_SameHierarchy.exeとexeファイルが2つありますが、
-MakeTemplate.exeは2つ上の階層に新しいフォルダを作成します。
+MakeTemplate.exeとMakeTemplate_SameHierarchy.exeとexeファイルが2つありますが、MakeTemplate.exeは2つ上の階層に新しいフォルダを作成します。
 一方、MakeTemplate_SameHierarchy.exeは同じ階層に新しいフォルダを作成します。
 
-MakeTemplate.exeは階層がずれるためもしかしたら不便に感じるかもしれませんので、
-基本的にはMakeTemplate_SameHierarchy.exeの方を利用ください。
+MakeTemplate.exeは階層がずれるためもしかしたら不便に感じるかもしれませんので、基本的にはMakeTemplate_SameHierarchy.exeの方を利用ください。
 勿論MakeTemplate.exeの方を利用していただいても構いませんが、使いづらい可能性が高いです。
 
-ですので、MakeTemplate_SameHierarchy.exeをフォルダを作成したい場所までコピー&ペーストしていただいて
-実行していただけると使いやすいと思います。
+ですので、MakeTemplate_SameHierarchy.exeをフォルダを作成したい場所までコピー&ペーストしていただいて実行していただけると使いやすいと思います。
